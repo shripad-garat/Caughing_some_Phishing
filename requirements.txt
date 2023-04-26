@@ -9,7 +9,7 @@ httptools
 imblearn
 mypy-boto3-s3
 pip-chill
-pymongo
+mysql-connector-python
 python-dotenv
 pyyaml
 sklearn
